@@ -2,7 +2,9 @@ h1 {
     color: blue;
   }
 
-* {color: rgb(216, 143, 223)}
+.fuksia {
+    color: fuchsia;
+}
 
 .ruskeanpunainen {
   color: rgb(158, 57, 32);
@@ -11,3 +13,32 @@ h1 {
 .punainen {
     color: red;
 }
+
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+  }
+  
+  .second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    left: 250px;
+    top: 15px;
+  }
+  
+  .third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    left: 500px;
+    top: 15px;
+  }
+
+  .yla {
+      margin-top: 0px;
+  }
