@@ -1,1 +1,13 @@
-p {background-color: red; }
+h1 {
+    color: blue;
+  }
+
+* {color: rgb(216, 143, 223)}
+
+.ruskeanpunainen {
+  color: rgb(158, 57, 32);
+}
+
+.punainen {
+    color: red;
+}
