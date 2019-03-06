@@ -1,16 +1,33 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em, 1em;
+    color: #555;
+}
+
 h1 {
-    color: blue;
-  }
-
-.fuksia {
-    color: fuchsia;
+    
+    color: #333;
+    margin-top: 1em;
+    padding-top: 1em;
 }
 
-.ruskeanpunainen {
-  color: rgb(158, 57, 32);
+h2 {
+    color: #333;
 }
 
-.punainen {
-    color: red;
+h3 {
+    color: #333;
 }
 
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
+}
+
+div {
+    margin-left: 50px;
+}
